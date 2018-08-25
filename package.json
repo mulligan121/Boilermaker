@@ -1,0 +1,170 @@
+{
+  "name": "boilermaker",
+  "description": "Roosevelt App to fix the shitty boilermaker results site",
+  "author": "Mike Mulligan",
+  "version": "0.1.0",
+  "homepage": "",
+  "license": "MIT",
+  "main": "app.js",
+  "readmeFilename": "",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "engineStrict": true,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "mongoose": "^5.2.9",
+    "roosevelt": "~0.11.4",
+    "roosevelt-less": "~0.4.0",
+    "roosevelt-uglify": "~0.2.0",
+    "teddy": "~0.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "husky": "~0.14.0",
+    "lint-staged": "~7.0.0",
+    "nodemon": "~1.17.0",
+    "standard": "~11.0.0",
+    "stylelint": "~9.1.0",
+    "stylelint-config-standard": "~18.2.0"
+  },
+  "rooseveltConfig": {
+    "port": 43711,
+    "generateFolderStructure": true,
+    "localhostOnly": true,
+    "suppressLogs": {
+      "httpLogs": false,
+      "rooseveltLogs": false,
+      "rooseveltWarnings": false
+    },
+    "noMinify": false,
+    "htmlValidator": {
+      "enable": false,
+      "port": 8888,
+      "exceptions": {
+        "requestHeader": "Partial",
+        "modelValue": "_disableValidator"
+      },
+      "separateProcess": false,
+      "suppressWarnings": false
+    },
+    "multipart": {
+      "multiples": true
+    },
+    "toobusy": {
+      "maxLagPerRequest": 70,
+      "lagCheckInterval": 500
+    },
+    "shutdownTimeout": 30000,
+    "bodyParserUrlencodedParams": {
+      "extended": true
+    },
+    "bodyParserJsonParams": {},
+    "https": {
+      "enable": false,
+      "httpsOnly": false,
+      "httpsPort": 43733,
+      "pfx": false,
+      "keyPath": "null",
+      "passphrase": "null",
+      "ca": "null",
+      "cafile": true,
+      "requestCert": false,
+      "rejectUnauthorized": false
+    },
+    "modelsPath": "mvc/models",
+    "viewsPath": "mvc/views",
+    "viewEngine": [
+      "html:teddy"
+    ],
+    "controllersPath": "mvc/controllers",
+    "error404": "404.js",
+    "error5xx": "5xx.js",
+    "error503": "503.js",
+    "staticsRoot": "statics",
+    "htmlMinify": {
+      "override": true,
+      "exception_url": false,
+      "htmlMinifier": {
+        "html5": true
+      }
+    },
+    "css": {
+      "sourceDir": "css",
+      "compiler": {
+        "nodeModule": "roosevelt-less",
+        "params": {
+          "cleanCSS": {
+            "advanced": true,
+            "aggressiveMerging": true
+          },
+          "sourceMap": null
+        }
+      },
+      "whitelist": null,
+      "output": ".build/css",
+      "versionFile": null
+    },
+    "js": {
+      "sourceDir": "js",
+      "compiler": {
+        "nodeModule": "roosevelt-uglify",
+        "showWarnings": false,
+        "params": {}
+      },
+      "whitelist": null,
+      "blacklist": null,
+      "output": ".build/js",
+      "bundler": {
+        "bundles": [],
+        "output": ".bundled",
+        "expose": true
+      }
+    },
+    "publicFolder": "public",
+    "favicon": "images/favicon.ico",
+    "staticsSymlinksToPublic": [
+      "images",
+      "css: .build/css",
+      "js: .build/js"
+    ],
+    "versionedPublic": false,
+    "alwaysHostPublic": false
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "**/.build/",
+      "statics/js/.bundled/",
+      "public/",
+      "jsdoc/"
+    ],
+    "ext": "less html js json"
+  },
+  "private": true,
+  "repository": {
+    "private-repo": "git+ssh://somewhere:port/folder/on/server"
+  },
+  "scripts": {
+    "start": "nodemon app.js --production-mode",
+    "production": "nodemon app.js --production-mode",
+    "prod": "nodemon app.js --production-mode",
+    "p": "nodemon app.js --production-mode",
+    "development": "nodemon app.js --development-mode",
+    "dev": "nodemon app.js --development-mode",
+    "d": "nodemon app.js --development-mode",
+    "kill-validator": "node ./node_modules/roosevelt/lib/scripts/killValidator.js",
+    "kv": "node ./node_modules/roosevelt/lib/scripts/killValidator.js",
+    "clean": "node ./node_modules/roosevelt/lib/scripts/appCleanup.js",
+    "audit": "node ./node_modules/roosevelt/lib/scripts/configAuditor.js",
+    "standard": "standard",
+    "stylelint": "./node_modules/.bin/stylelint \"statics/css/**/*.less\" --syntax less",
+    "lint": "standard && ./node_modules/.bin/stylelint \"statics/css/**/*.less\" --syntax less",
+    "test": "echo \"TODO: tests\"",
+    "precommit": "lint-staged",
+    "pc": "lint-staged"
+  },
+  "lint-staged": {
+    "*.less": "./node_modules/.bin/stylelint --syntax less",
+    "*.js": "standard"
+  }
+}
