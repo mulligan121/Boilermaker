@@ -1,31 +1,29 @@
-const fs = require('fs')
+const parse2003 = require('./parsers/2003')
 
-function readLines(input, func) {
+// read each line of data
+module.exports = (input) => {
   let remaining = ''
 
+  // all file data as buffers
   input.on('data', (data) => {
+    // assign the data to remaining
     remaining += data
+    // index that the new line is on
     let index = remaining.indexOf('\n')
+
+    // run each line through the parser
     while (index > -1) {
       let line = remaining.substring(0, index)
       remaining = remaining.substring(index + 1)
-      func(line)
+      parse2003(line)
       index = remaining.indexOf('\n')
     }
   })
 
+  // parse the remaining
   input.on('end', () => {
     if (remaining.length > 0) {
-      func(remaining)
+      parse2003(remaining)
     }
   })
 }
-
-function func(data) {
-  let array = data.trim().split(/ +/)
-  // console.log(typeof data)
-  console.log(array)
-}
-
-let input = fs.createReadStream('2003.txt')
-readLines(input, func)
