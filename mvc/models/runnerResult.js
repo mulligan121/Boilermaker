@@ -4,23 +4,25 @@ const Schema = mongoose.Schema
 // create runner result schema
 let RunnerResultsSchema = new Schema({
   first_name: {
-    type: String,
-    required: true
+    type: String
   },
-  middle_initial: {
+  middle_name: {
     type: String
   },
   last_name: {
-    type: String,
-    required: true
+    type: String
+  },
+  suffix: {
+    type: String
   },
   gender: {
-    type: String,
-    required: true
+    type: String
   },
   age_group: {
-    type: String,
-    required: true
+    type: String
+  },
+  age: {
+    type: String
   },
   city: {
     type: String
