@@ -61,19 +61,23 @@ module.exports = (data) => {
       for (let y = i + 1; y < array.length; y++) {
         locationArray.push(array[y])
       }
-      // test to see if the location is a state. If it is, then update location information for the results
-      // TODO: Write a script that will determine if a string is a state with precision vs. using a regexp
-      if (locationArray[locationArray.length - 1].length === 2 && /[A-Z]{1,2}/.test(locationArray[locationArray.length - 1])) {
-        result.state = locationArray[locationArray.length - 1]
-        locationArray.splice(locationArray.length - 1, 1)
-        result.city = locationArray.join(' ')
-        result.country = 'United States'
-      } else {
-        // if the location doesn't have a state then default the location to a country
-        // TODO: There are some rare cases that this is invalid, some runners set their location
-        //       to providence, country for example. In the future I'd like to use a location
-        //       services API to fix any incorrect location data that we are storing.
-        result.country = locationArray.join(' ')
+
+      // one man in 2004 said fuck this I'm not giving out my location...which is why we need this check
+      if (locationArray !== undefined && locationArray.length !== 0) {
+        // test to see if the location is a state. If it is, then update location information for the results
+        // TODO: Write a script that will determine if a string is a state with precision vs. using a regexp
+        if (locationArray[locationArray.length - 1].length === 2 && /[A-Z]{1,2}/.test(locationArray[locationArray.length - 1])) {
+          result.state = locationArray[locationArray.length - 1]
+          locationArray.splice(locationArray.length - 1, 1)
+          result.city = locationArray.join(' ')
+          result.country = 'United States'
+        } else {
+          // if the location doesn't have a state then default the location to a country
+          // TODO: There are some rare cases that this is invalid, some runners set their location
+          //       to providence, country for example. In the future I'd like to use a location
+          //       services API to fix any incorrect location data that we are storing.
+          result.country = locationArray.join(' ')
+        }
       }
 
       // finally lets get the gender
