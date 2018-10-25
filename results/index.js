@@ -4,18 +4,25 @@ const fs = require('fs')
 
 // parsers
 const parser1 = require('./parsers/parser1')
+const parser2 = require('./parsers/parser2')
 
 // assign years to parser for reusability
 let assignParsers = {
   parser1: {
     files: ['2003', '2004', '2005', '2006']
+  },
+  parser2: {
+    files: ['2007', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']
   }
+  /* parser3: {
+    files: ['2008']
+  } */
 }
 
 // get data files
 // directories for the data files and the parsers
 const dataFiles = klaw(path.join(__dirname, './data'), { nodir: true })
-let remainingDataFiles = dataFiles.length - 12 // TODO: remove "x - number" once all parsers are introduced
+let remainingDataFiles = dataFiles.length - 15 // TODO: remove "x - number" once all parsers are introduced
 let results
 let year
 
@@ -37,6 +44,7 @@ mongoose
             results = fs.readFileSync(file.path).toString().split('\n')
             for (let i = 0; i < results.length; i++) {
               if (key === 'parser1') parser1(year, results[i])
+              if (key === 'parser2') parser2(year, results[i])
               if (i === results.length - 1) {
                 handleRemaining(file.path)
               }

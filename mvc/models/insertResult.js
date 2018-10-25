@@ -1,6 +1,6 @@
 const RunnerResult = require('./runnerResult')
 
-module.exports = function (year, result) {
+module.exports = function (year, result, next) {
   let newRunner
   let dataToInsert = {
     first_name: result.first_name,
@@ -76,6 +76,9 @@ module.exports = function (year, result) {
 
   // save the runner result
   newRunner.save()
+    .then(() => {
+      next()
+    })
     .catch((err) => {
       console.log(err)
     })

@@ -1,7 +1,7 @@
 const human = require('humanparser')
 const insertResult = require('../../mvc/models/insertResult')
 
-module.exports = (year, data) => {
+module.exports = (year, data, next) => {
   let result = {}
   let split
 
@@ -93,5 +93,7 @@ module.exports = (year, data) => {
       array.splice(i, 1)
     }
   }
-  insertResult(year, result)
+  insertResult(year, result, () => {
+    next()
+  })
 }
