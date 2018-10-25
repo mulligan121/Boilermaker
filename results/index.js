@@ -22,7 +22,7 @@ let assignParsers = {
 // get data files
 // directories for the data files and the parsers
 const dataFiles = klaw(path.join(__dirname, './data'), { nodir: true })
-let remainingDataFiles = dataFiles.length - 15 // TODO: remove "x - number" once all parsers are introduced
+let remainingDataFiles = dataFiles.length - 1 // TODO: remove "x - number" once all parsers are introduced
 let results
 let year
 
@@ -42,12 +42,15 @@ mongoose
           year = 'Year' + assignParsers[key].files[x]
           if (file.path.includes(assignParsers[key].files[x])) {
             results = fs.readFileSync(file.path).toString().split('\n')
-            for (let i = 0; i < results.length; i++) {
-              if (key === 'parser1') parser1(year, results[i])
-              if (key === 'parser2') parser2(year, results[i])
-              if (i === results.length - 1) {
+            if (key === 'parser1') {
+              parse(parser1, year, results, 0, () => {
                 handleRemaining(file.path)
-              }
+              })
+            }
+            if (key === 'parser2') {
+              parse(parser2, year, results, 0, () => {
+                handleRemaining(file.path)
+              })
             }
           }
         }
@@ -65,5 +68,20 @@ function handleRemaining (file) {
   remainingDataFiles--
   if (remainingDataFiles === 0) {
     console.log('Finished')
+    process.exit(0)
   }
+}
+
+function parse (parser, year, results, index, next) {
+  parser(year, results[index], () => {
+    index++
+    if (index % 1000 === 0) {
+      console.log(year + ': inserted ' + index + ' results.')
+    }
+    if (index === results.length) {
+      next()
+    } else {
+      parse(parser, year, results, index, next)
+    }
+  })
 }
