@@ -18,7 +18,7 @@
     "roosevelt": "0.11.9",
     "roosevelt-less": "0.5.0",
     "roosevelt-uglify": "0.3.0",
-    "teddy": "0.4.26"
+    "teddy": "0.4.27"
   },
   "devDependencies": {
     "eslint": "5.5.0",
