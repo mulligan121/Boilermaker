@@ -1459,7 +1459,7 @@
  1459 Thomas J. Aceti        M#1241    89/673  M50-54   1:12:18  7:46   1:10:32  7:34   New Hartford      NY
  1460 Richard B. Beck        M#1242    90/673  M50-54   1:12:19  7:46   1:11:27  7:40   Sparks            MD
  1461 Frank E. Elias         M#1243   110/699  M40-44   1:12:20  7:46   1:11:33  7:41   Deerfield         NY
- 1462 Timothy K. Skjellerup, M#1244   140/766  M30-34   1:12:20  7:46   1:10:59  7:37   Ithaca            NY
+ 1462 Timothy K. Skjellerup  M#1244   140/766  M30-34   1:12:20  7:46   1:10:59  7:37   Ithaca            NY
  1463 Chuck E. Paul          M#1245    40/449  M55-59   1:12:22  7:46   1:11:34  7:41   Orchard Park      NY
  1464 Bethany Hawke          F# 219    48/750  F20-24   1:12:22  7:46   1:10:56  7:37   Albany            NY
  1465 Benjamin J. Fell       M#1246   141/766  M30-34   1:12:25  7:47   1:10:58  7:37   Farmington        NY
@@ -2634,7 +2634,7 @@
  2634 Santiago Garcia        M#2121   231/705  M35-39   1:19:48  8:34   1:19:28  8:32   New York          NY
  2635 Kim L. Petrie          M#2122    96/449  M55-59   1:19:48  8:34   1:17:51  8:22   Oneida            NY
  2636 Michael J. Reilly      M#2123   234/699  M40-44   1:19:48  8:34   1:17:22  8:19   Rome              NY
- 2637 Donald F. Wisniewski,  M#2124   190/673  M50-54   1:19:48  8:34   1:17:41  8:21   Marcy             NY
+ 2637 Donald F. Wisniewski   M#2124   190/673  M50-54   1:19:48  8:34   1:17:41  8:21   Marcy             NY
  2638 John M. Ellis          M#2125   235/699  M40-44   1:19:48  8:34   1:17:29  8:19   New Hartford      NY
  2639 Lynn Gebhardt          F# 514    54/574  F40-44   1:19:49  8:34   1:16:52  8:15   Baldwinsville     NY
  2640 Ned Clarke             M#2126   191/673  M50-54   1:19:49  8:34   1:17:56  8:22   Dalton            PA
@@ -3186,7 +3186,7 @@
  3186 Brett Barnum           M#2496   370/865  M25-29   1:22:38  8:52   1:17:45  8:21   Utica             NY
  3187 Keith Dabbs            M#2497   266/705  M35-39   1:22:39  8:52   1:19:34  8:33   New Hartford      NY
  3188 Steven Phillips        M#2498   273/699  M40-44   1:22:39  8:52   1:20:27  8:38   Avon              NY
- 3189 Michael A. Pettinelli, M#2499   289/766  M30-34   1:22:39  8:53   1:21:33  8:45   Marcy             NY
+ 3189 Michael A. Pettinelli  M#2499   289/766  M30-34   1:22:39  8:53   1:21:33  8:45   Marcy             NY
  3190 Patrick DiCrasto       M#2500   274/699  M40-44   1:22:39  8:53   1:16:03  8:10   Baldwinsville     NY
  3191 Ryan Dempsey           M#2501   371/865  M25-29   1:22:40  8:53   1:18:42  8:27   Whitesboro        NY
  3192 David Geyer            M#2502   230/673  M50-54   1:22:40  8:53   1:18:40  8:27   Wyomissing        PA

@@ -1559,7 +1559,7 @@
  1559 Christian P. Lord      M#1275   123/634  M45-49   1:15:10  8:04   1:12:24  7:46   Liverpool         NY
  1560 Emily J. Tucker        F# 285    51/965  F25-29   1:15:11  8:04   1:12:29  7:47   Baltimore         MD
  1561 Edward Newman          M#1276   117/594  M50-54   1:15:11  8:04   1:12:43  7:49   Ontario           NY
- 1562 Chester E. Rosenburgh, M#1277   189/580  M20-24   1:15:13  8:05   1:14:48  8:02   Barneveld         NY
+ 1562 Chester E. Rosenburgh M#1277   189/580  M20-24   1:15:13  8:05   1:14:48  8:02   Barneveld         NY
  1563 Samantha Randall       F# 286    28/328  F15-19   1:15:13  8:05   1:13:17  7:52   Cortland          NY
  1564 Krista Babiarz         F# 287    52/965  F25-29   1:15:14  8:05   1:14:20  7:59   Auburn            NY
  1565 Beth Squire            F# 288    40/826  F30-34   1:15:14  8:05   1:14:19  7:59   Fayetteville      NY
@@ -3842,7 +3842,7 @@
  3842 Martin Nowicki         M#2779   291/655  M40-44   1:28:38  9:31   1:24:34  9:05   Syracuse          NY
  3843 Gina Sacco             F#1064   193/965  F25-29   1:28:38  9:31   1:22:54  8:54   Albany            NY
  3844 Allison E. Langan      F#1065    58/382  F50-54   1:28:38  9:31   1:25:53  9:13   Cazenovia         NY
- 3845 Cornelius J. O'Connor, M#2780   431/859  M25-29   1:28:39  9:31   1:24:33  9:05   Albany            NY
+ 3845 Cornelius J. O'Connor M#2780   431/859  M25-29   1:28:39  9:31   1:24:33  9:05   Albany            NY
  3846 Shawna Walsh           F#1066   194/965  F25-29   1:28:39  9:31   1:25:02  9:08   Brewster          NY
  3847 David E. Zawalski      M#2781   292/634  M45-49   1:28:40  9:31   1:26:33  9:18   Rochester         NY
  3848 Matt Robinson          M#2782   432/859  M25-29   1:28:40  9:31   1:21:39  8:46   Rochester         NY

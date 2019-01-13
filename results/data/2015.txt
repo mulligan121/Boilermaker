@@ -6198,7 +6198,7 @@
  6198 Cathy A. Fairbanks     F#2166   126/364  F50-54   1:40:55 10:50   1:36:31 10:22   Apalachin         NY
  6199 Crystal Leblond        F#2167   217/539  F40-44   1:40:55 10:50   1:30:05  9:40   Fly Creek         NY
  6200 Kim De Grandpre        F#2168   127/364  F50-54   1:40:56 10:50   1:28:23  9:29   Gatineau          QC
- 6201 Eugene M. Sneeringer,  M#4033   158/303  M60-64   1:40:56 10:50   1:33:45 10:04   Albany            NY
+ 6201 Eugene M. Sneeringer  M#4033   158/303  M60-64   1:40:56 10:50   1:33:45 10:04   Albany            NY
  6202 Kaleb Wilson           M#4034   596/877  M30-34   1:40:57 10:50   1:32:03  9:53   Cazenovia         NY
  6203 Mark J. Fitzpatrick    M#4035   597/877  M30-34   1:40:57 10:50   1:29:14  9:35   Liverpool         NY
  6204 Salvatore R. Magro     M#4036   562/828  M25-29   1:40:58 10:50   1:37:44 10:30   Frankfort         NY
@@ -9998,20 +9998,6 @@
  9998 Amanda Yesensky        F#4328   609/749  F35-39   2:00:41 12:57   1:47:19 11:31   Ellicott City     MD
  9999 Jill Johnson           F#4329   610/749  F35-39   2:00:42 12:57   1:47:19 11:31   Herkimer          NY
 10000 Emily Voss             F#4330   733/895  F30-34   2:00:42 12:57   1:48:23 11:38   Charlottesville   VA
-
-
-                           THE 38th ANNUAL UTICA BOILERMAKER 15K ROAD RACE
-                                      Utica, NY   July 12, 2015
-
-                Results By: Leone Timing & Results Services (www.leonetiming.com) &
-                            Finish Line Road Race Technicians (www.flrrt.com)
-
-                                     RESULTS SORTED ON GUN TIME
-
-------------------------------------------------------------------------------------------------------------
-                                  PLACES IN               GUN    GUN      NET    NET
-PLACE NAME                    SEX     &   AGEGROUP        TIME   PACE     TIME   PACE   RESIDENCE
-------------------------------------------------------------------------------------------------------------
 10001 Larry J. Smith         M#5671   447/497  M55-59   2:00:42 12:57   1:48:16 11:37   Winthrop          MA
 10002 Joel Satterlee         M#5672   556/603  M40-44   2:00:42 12:57   1:52:29 12:04   Burnt Hills       NY
 10003 Kevin Goings           M#5673   548/603  M50-54   2:00:43 12:58   1:52:55 12:07   Canastota         NY

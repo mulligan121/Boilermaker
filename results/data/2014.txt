@@ -2402,7 +2402,7 @@
  2402 Molly Bowen            F# 532    90/797  F20-24   1:22:06  8:49   1:20:49  8:41   Morrisonville     NY
  2403 Amanda L. Ray          F# 533    95/871  F30-34   1:22:06  8:49   1:21:28  8:45   Clay              NY
  2404 Brian M. Adams         M#1871   296/934  M25-29   1:22:06  8:49   1:20:42  8:40   Rome              NY
- 2405 James A. Kaffenbarger, M#1872   169/612  M45-49   1:22:07  8:49   1:19:09  8:30   Elmira            NY
+ 2405 James A. Kaffenbarger  M#1872   169/612  M45-49   1:22:07  8:49   1:19:09  8:30   Elmira            NY
  2406 Donald P. Lynskey      M#1873   170/612  M45-49   1:22:07  8:49   1:19:46  8:34   New Hartford      NY
  2407 Jean Burr              F# 534    63/747  F35-39   1:22:07  8:49   1:18:51  8:28   North Yarmouth    ME
  2408 Brett J. George        M#1874   167/394  M15-19   1:22:08  8:49   1:20:33  8:39   Utica             NY
@@ -9998,20 +9998,6 @@
  9998 Beth McQueeney         F#4350   481/622  F40-44   1:58:11 12:41   1:51:39 11:59   Niskayuna         NY
  9999 Sue Erhard             F#4351   376/499  F45-49   1:58:11 12:41   1:51:39 11:59   Syracuse          NY
 10000 Kimberly Kost          F#4352   674/871  F30-34   1:58:11 12:41   1:44:32 11:13   Jamaica Plain     MA
-
-
-                           THE 37th ANNUAL UTICA BOILERMAKER 15K ROAD RACE
-                                      Utica, NY   July 13, 2014
-
-                Results By: Leone Timing & Results Services (www.leonetiming.com) &
-                            Finish Line Road Race Technicians (www.flrrt.com)
-
-                                     RESULTS SORTED ON GUN TIME
-
-------------------------------------------------------------------------------------------------------------
-                                  PLACES IN               GUN    GUN      NET    NET
-PLACE NAME                    SEX     &   AGEGROUP        TIME   PACE     TIME   PACE   RESIDENCE
-------------------------------------------------------------------------------------------------------------
 10001 Joseph Gitzen          M#5649   539/604  M40-44   1:58:12 12:41   1:44:22 11:12   Cicero            NY
 10002 Lant Wagner            M#5650   190/230  M60-64   1:58:12 12:41   1:54:18 12:16   Marcy             NY
 10003 Jennifer Meldrum       F#4353   814/1022 F25-29   1:58:13 12:41   1:48:57 11:42   Rochester         NY

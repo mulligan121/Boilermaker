@@ -93,6 +93,19 @@ module.exports = (year, data, next) => {
       array.splice(i, 1)
     }
   }
+  if (!result.place_overall) console.log('Missing place overall')
+  if (!result.gender) console.log('Missing gender')
+  if (!result.gun_pace) console.log('Missing gun pace')
+  if (!result.gun_time) console.log('Missing gun time')
+  if (!result.net_pace) console.log('Missing gun pace')
+  if (!result.net_time) console.log('Missing gun time')
+  if (!result.first_name) {
+    console.log(year)
+    console.log(result)
+    console.log('Missing first name')
+  }
+  if (!result.last_name) console.log('Missing last name')
+  if (!result.country) console.log('Missing Country')
   insertResult(year, result, () => {
     next()
   })

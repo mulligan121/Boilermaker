@@ -1566,7 +1566,7 @@
  1566 Audra Naujokas-Knapp   F# 231    29/600  F35-39   1:12:55  7:50   1:12:48  7:49   Rochester         NY
  1567 Ty E. Knamm            M#1336   148/760  M35-39   1:12:55  7:50   1:12:23  7:46   Barneveld         NY
  1568 John J. Niblock        M#1337   155/838  M45-49   1:12:56  7:50   1:12:03  7:44   East Amherst      NY
- 1569 Randall J. Sokolowski, M#1338   113/592  M30-34   1:12:56  7:50   1:09:07  7:25   Liverpool         NY
+ 1569 Randall J. Sokolowski M#1338   113/592  M30-34   1:12:56  7:50   1:09:07  7:25   Liverpool         NY
  1570 Lynette M. June        F# 232    31/525  F30-34   1:12:56  7:50   1:12:11  7:45   Schenectady       NY
  1571 Steven M. Briggs       M#1339   173/829  M40-44   1:12:57  7:50   1:11:59  7:44   Mohawk            NY
  1572 Neil Sergott           M#1340   149/760  M35-39   1:12:58  7:50   1:12:50  7:49   Albany            NY
@@ -4089,7 +4089,7 @@
  4089 Terry W. Allen         M#3114   417/829  M40-44   1:27:32  9:24   1:25:19  9:10   Lyons Falls       NY
  4090 Thomas B. Olsen        M#3115   145/403  M55-59   1:27:33  9:24   1:21:09  8:43   Rome              NY
  4091 Kelle Santa            F# 976   132/600  F35-39   1:27:33  9:24   1:22:25  8:51   North Syracuse    NY
- 4092 Timothy K. Skjellerup, M#3116   326/637  M25-29   1:27:33  9:24   1:24:08  9:02   New Hartford      NY
+ 4092 Timothy K. Skjellerup  M#3116   326/637  M25-29   1:27:33  9:24   1:24:08  9:02   New Hartford      NY
  4093 Dave Ames              M#3117   327/637  M25-29   1:27:34  9:24   1:23:41  8:59   Homer             NY
  4094 Sara Peloquin          F# 977   159/678  F25-29   1:27:34  9:24   1:23:21  8:57   Latham            NY
  4095 Geoffrey Reed          M#3118   418/829  M40-44   1:27:35  9:24   1:23:54  9:01   Pittsford         NY
@@ -6257,7 +6257,7 @@
  6257 Jeanette Steffler      F#1913   254/600  F35-39   1:37:38 10:29   1:28:37  9:31   Kanata            ON
  6258 Heidi Howard           F#1914   250/592  F40-44   1:37:38 10:29   1:29:26  9:36   Mt Holly Springs  PA
  6259 Douglas J. Tucker      M#4345   449/727  M50-54   1:37:38 10:29   1:34:52 10:11   Rensselaer        NY
- 6260 Kenneth R. Gigliotti,  M#4346   408/592  M30-34   1:37:39 10:29   1:26:34  9:18   Utica             NY
+ 6260 Kenneth R. Gigliotti   M#4346   408/592  M30-34   1:37:39 10:29   1:26:34  9:18   Utica             NY
  6261 Peter A. Thomas        M#4347   214/403  M55-59   1:37:40 10:29   1:26:40  9:18   Delmar            NY
  6262 Kathleen R. Ryan       F#1915   251/592  F40-44   1:37:40 10:29   1:30:05  9:40   Kiamesha Lake     NY
  6263 John Brady             M#4348   409/592  M30-34   1:37:40 10:29   1:29:43  9:38   Cambridge         MA
@@ -6590,7 +6590,7 @@
  6590 Albert J. Buckner      M#4503   470/727  M50-54   1:39:18 10:40   1:35:39 10:16   East Rochester    NY
  6591 Andrew Penn            M#4504   567/760  M35-39   1:39:19 10:40   1:33:39 10:03   Watervliet        NY
  6592 Karen S. Hart          F#2088   279/592  F40-44   1:39:19 10:40   1:36:26 10:21   Fairport          NY
- 6593 Sergio Christensen      #                         1:39:19 10:40   1:30:12  9:41   Cohoes            NY
+ 6593 Sergio Christensen     M#XXXX   XXX/XXX  MXX-XX   1:39:19 10:40   1:30:12  9:41   Cohoes            NY
  6594 Michael Miller         M#4505   595/829  M40-44   1:39:19 10:40   1:36:26 10:21   East Greenbush    NY
  6595 Debbie Kerr            F#2089   280/592  F40-44   1:39:19 10:40   1:27:45  9:25   Ottawa            ON
  6596 Jack Wolber            M#4506   588/838  M45-49   1:39:20 10:40   1:31:23  9:49   Nashua            NH
@@ -8165,7 +8165,7 @@
  8165 Michelle Rivera        F#2878   381/600  F35-39   1:46:51 11:28   1:43:43 11:08   Webster           NY
  8166 Joseph G. Martini      M#5287   592/668  M20-24   1:46:51 11:28   1:38:58 10:38   Clinton           NY
  8167 Joanna E. McCall       F#2879   344/525  F30-34   1:46:52 11:28   1:34:54 10:11   Cherry Valley     NY
- 8168 Michael T. Cerminaro,  M#5288   640/760  M35-39   1:46:54 11:29   1:37:59 10:31   Fairfield         CT
+ 8168 Michael T. Cerminaro   M#5288   640/760  M35-39   1:46:54 11:29   1:37:59 10:31   Fairfield         CT
  8169 Rita A. Riolo          F#2880   160/324  F50-54   1:46:55 11:29   1:38:38 10:35   Rome              NY
  8170 Anita C. Peer          F#2881   161/324  F50-54   1:46:55 11:29   1:41:05 10:51   Rome              NY
  8171 Mike Guzzo             M#5289   496/592  M30-34   1:46:55 11:29   1:38:59 10:38   Rotterdam         NY
