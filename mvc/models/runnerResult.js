@@ -3,6 +3,9 @@ const Schema = mongoose.Schema
 
 // create runner result schema
 let RunnerResultsSchema = new Schema({
+  salutation: {
+    type: String
+  },
   first_name: {
     type: String
   },
@@ -51,7 +54,7 @@ let RunnerResultsSchema = new Schema({
   place_gender: {
     type: String
   },
-  place_gender_age_group: {
+  place_in_age_group: {
     type: String
   }
 })

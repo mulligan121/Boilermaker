@@ -3,6 +3,7 @@ const RunnerResult = require('./runnerResult')
 module.exports = function (year, result, next) {
   let newRunner
   let dataToInsert = {
+    salutation: result.salutation,
     first_name: result.first_name,
     middle_name: result.middle_name,
     last_name: result.last_name,
