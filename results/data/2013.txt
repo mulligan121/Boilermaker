@@ -268,7 +268,7 @@
   268 Jay Tracy              M# 240    18/628  M40-44   1:01:51  6:39   1:01:37  6:37   Clay              NY
   269 James Machowski        M# 241    15/653  M35-39   1:01:53  6:39   1:01:44  6:38   Wales             ME
   270 John Copp              M# 242    41/821  M30-34   1:01:56  6:39   1:01:53  6:39   East Syracuse     NY
-  271 Bradley M. Kowalczyk,  M# 243    56/603  M20-24   1:01:58  6:39   1:01:45  6:38   Utica             NY
+  271 Bradley M. Kowalczyk  M# 243    56/603  M20-24   1:01:58  6:39   1:01:45  6:38   Utica             NY
   272 Gary Grinnell          M# 244    19/628  M40-44   1:02:00  6:40   1:01:47  6:38   Painted Post      NY
   273 Nelson Shepard         M# 245    57/603  M20-24   1:02:04  6:40   1:01:51  6:39   Simsbury          CT
   274 David Curtin           M# 246    42/821  M30-34   1:02:07  6:40   1:01:57  6:39   Cassville         NY
@@ -1270,7 +1270,7 @@
  1270 Rick Cowburn           M#1049    41/448  M55-59   1:14:54  8:03   1:13:39  7:55   Cicero            NY
  1271 Ryan Collins           M#1050   173/867  M25-29   1:14:55  8:03   1:12:01  7:44   Oriskany Falls    NY
  1272 Michael G. Stamboly    M#1051    42/448  M55-59   1:14:55  8:03   1:14:23  7:59   Atlanta           GA
- 1273 Michael J. Mulvihill,  M#1052   131/407  M15-19   1:14:56  8:03   1:11:04  7:38   Dewitt            NY
+ 1273 Michael J. Mulvihill  M#1052   131/407  M15-19   1:14:56  8:03   1:11:04  7:38   Dewitt            NY
  1274 Carolyn J. Sniezyk     F# 222    34/683  F35-39   1:14:58  8:03   1:13:55  7:56   Broadalbin        NY
  1275 Andrew M. Rapasadi     M#1053   132/407  M15-19   1:14:58  8:03   1:14:16  7:59   Canastota         NY
  1276 Brent Gotie            M#1054   153/821  M30-34   1:14:58  8:03   1:14:03  7:57   Pittsford         NY
@@ -1360,7 +1360,7 @@
  1360 Peyton B. Lareaux      M#1117   136/407  M15-19   1:15:35  8:07   1:14:28  8:00   Utica             NY
  1361 Kreg Rodrigues         M#1118   111/628  M40-44   1:15:36  8:07   1:12:55  7:50   Palmerton         PA
  1362 Colin Lareaux          M#1119   182/867  M25-29   1:15:36  8:07   1:14:30  8:00   Brooklyn          NY
- 1363 David J. Leffingwell,  M#1120   183/867  M25-29   1:15:37  8:07   1:14:15  7:58   Boonville         NY
+ 1363 David J. Leffingwell  M#1120   183/867  M25-29   1:15:37  8:07   1:14:15  7:58   Boonville         NY
  1364 David Laris            M#1121    90/547  M50-54   1:15:37  8:07   1:15:07  8:04   Clay              NY
  1365 Kenneth Moss           M#1122   184/867  M25-29   1:15:37  8:07   1:13:42  7:55   Johnson City      NY
  1366 Alec Labelle           M#1123   146/603  M20-24   1:15:38  8:07   1:14:55  8:03   Clinton           NY
@@ -2696,7 +2696,7 @@
  2696 Andrew W. Dusseault    M#2042   242/603  M20-24   1:25:13  9:09   1:18:10  8:24   Ilion             NY
  2697 Michael Lombardi       M#2043   225/653  M35-39   1:25:15  9:09   1:21:48  8:47   Slingerlands      NY
  2698 Morgan Noone           M#2044   202/620  M45-49   1:25:15  9:09   1:24:19  9:03   Rome              NY
- 2699 Timothy K. Skjellerup, M#2045   226/653  M35-39   1:25:16  9:09   1:24:30  9:04   Sauquoit          NY
+ 2699 Timothy K. Skjellerup M#2045   226/653  M35-39   1:25:16  9:09   1:24:30  9:04   Sauquoit          NY
  2700 Andrew V. Pickreign    M#2046   311/867  M25-29   1:25:16  9:09   1:20:44  8:40   Saranac Lake      NY
  2701 Josh Gitschier         M#2047   292/821  M30-34   1:25:17  9:09   1:21:42  8:46   Kennebunk         ME
  2702 David Mason            M#2048   227/653  M35-39   1:25:17  9:09   1:22:14  8:50   Lycoming          NY
@@ -4479,7 +4479,7 @@
  4479 Constantino Siampos    M#3128   356/653  M35-39   1:34:43 10:10   1:30:47  9:45   Brooklyn          NY
  4480 Michele L. Davis       F#1352   203/683  F35-39   1:34:44 10:10   1:29:00  9:33   Utica             NY
  4481 Hallie Serianni        F#1353    81/306  F15-19   1:34:44 10:10   1:30:38  9:44   Frankfort         NY
- 4482 Brian S. Maclaughlin,  M#3129   483/867  M25-29   1:34:44 10:10   1:29:17  9:35   Raymond           NH
+ 4482 Brian S. Maclaughlin  M#3129   483/867  M25-29   1:34:44 10:10   1:29:17  9:35   Raymond           NH
  4483 Brittany V. Englert    F#1354    82/306  F15-19   1:34:45 10:10   1:27:04  9:21   New York Mills    NY
  4484 Michelle L. Komacek    F#1355   151/639  F40-44   1:34:45 10:10   1:29:24  9:36   Whitesboro        NY
  4485 Todd Hoffman           M#3130   277/547  M50-54   1:34:45 10:10   1:32:26  9:55   Rome              NY
@@ -9340,7 +9340,7 @@
  9340 Amanda J. Killmeier    F#4049   773/994  F25-29   1:59:49 12:52   1:45:33 11:20   Kirkwood          NY
  9341 Steven A. Kinsella     M#5292   490/547  M50-54   1:59:49 12:52   1:51:42 11:59   Schuyler          NY
  9342 Julianne Torres        F#4050   774/994  F25-29   1:59:49 12:52   1:50:33 11:52   Watervliet        NY
- 9343 Anthony J. Centolella, M#5293   491/547  M50-54   1:59:49 12:52   1:45:03 11:17   Auburn            NY
+ 9343 Anthony J. Centolella  M#5293   491/547  M50-54   1:59:49 12:52   1:45:03 11:17   Auburn            NY
  9344 Daniel Head            M#5294   731/821  M30-34   1:59:50 12:52   1:50:33 11:52   Washington        DC
  9345 Jamin Mashaw           M#5295   732/821  M30-34   1:59:50 12:52   1:47:26 11:32   Saratoga Springs  NY
  9346 Wendy Overholt         F#4051   547/683  F35-39   1:59:51 12:52   1:47:16 11:31   Watertown         NY

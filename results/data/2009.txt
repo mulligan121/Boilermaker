@@ -1900,7 +1900,7 @@
  1900 Martin L. Kochheim     M#1590   159/676  M35-39   1:14:17  7:59   1:12:48  7:49   Hamburg           NA
  1901 Heather L. Rapp        F# 311    39/633  F30-34   1:14:17  7:59   1:11:33  7:41   Greene            NY
  1902 Frank Duross, Jr.      M#1591   160/676  M35-39   1:14:18  7:59   1:13:24  7:53   Utica             NY
- 1903 Randall J. Sokolowski, M#1592   161/676  M35-39   1:14:18  7:59   1:11:30  7:41   Liverpool         NY
+ 1903 Randall J. Sokolowski  M#1592   161/676  M35-39   1:14:18  7:59   1:11:30  7:41   Liverpool         NY
  1904 Kristen M. Owens       F# 312     1/41   F01-14   1:14:18  7:59   1:13:46  7:55   Whitesboro        NY
  1905 Roger Croniser         M#1593   137/621  M50-54   1:14:18  7:59   1:13:19  7:52   Boonville         NY
  1906 Tracy Cissi            F# 313    28/581  F35-39   1:14:19  7:59   1:12:34  7:48   Apex              NC
@@ -2151,7 +2151,7 @@
  2151 Joshua Tulloch         M#1772   278/692  M20-24   1:15:48  8:08   1:11:37  7:41   Potsdam           NY
  2152 Andrew T. Bauch        M#1773   279/692  M20-24   1:15:49  8:09   1:12:35  7:48   Hamlin            NY
  2153 William K. Cotter      M#1774   251/795  M25-29   1:15:50  8:09   1:13:03  7:51   New York          NY
- 2154 Timothy K. Skjellerup, M#1775   194/658  M30-34   1:15:50  8:09   1:14:38  8:01   Utica             NY
+ 2154 Timothy K. Skjellerup  M#1775   194/658  M30-34   1:15:50  8:09   1:14:38  8:01   Utica             NY
  2155 Roger Rockwell         M#1776   187/664  M40-44   1:15:50  8:09   1:13:18  7:52   Fort Plain        NY
  2156 Patrick Kilfoile       M#1777   252/795  M25-29   1:15:50  8:09   1:14:28  8:00   North Syracuse    NY
  2157 Leah Shimko            F# 380    82/791  F25-29   1:15:50  8:09   1:13:44  7:55   Rochester         NY
@@ -2219,7 +2219,7 @@
  2219 Charles C. Mix         M#1823     3/65   M65-69   1:16:13  8:11   1:15:30  8:07   Holland Patent    NY
  2220 Lori Tayas             F# 397    38/530  F40-44   1:16:13  8:11   1:14:47  8:02   North Reading     MA
  2221 Rachel E. Shaheen      F# 398    53/320  F15-19   1:16:14  8:11   1:12:45  7:49   Clinton           NY
- 2222 Bradley M. Kowalczyk,  M#1824   233/459  M15-19   1:16:14  8:11   1:13:04  7:51   New Hartford      NY
+ 2222 Bradley M. Kowalczyk   M#1824   233/459  M15-19   1:16:14  8:11   1:13:04  7:51   New Hartford      NY
  2223 Nate B. Sweet          M#1825   263/795  M25-29   1:16:15  8:11   1:12:16  7:46   Oswego            NY
  2224 Cori A. Zacher         F# 399    39/530  F40-44   1:16:15  8:11   1:13:28  7:53   Geneva            IL
  2225 Mark C. Taylor         M#1826   264/795  M25-29   1:16:15  8:11   1:15:00  8:03   Utica             NY
@@ -3888,7 +3888,7 @@
  3888 Dana L. Dowe           F# 915   169/791  F25-29   1:24:56  9:07   1:20:59  8:42   Astoria           NY
  3889 John D. Solan          M#2974    40/179  M60-64   1:24:57  9:07   1:22:26  8:51   Cossayuna         NY
  3890 Tara C. Hook-Byers     F# 916   124/633  F30-34   1:24:57  9:07   1:22:13  8:50   Holland Patent    NY
- 3891 Douglas E. Billingham, M#2975   344/683  M45-49   1:24:57  9:07   1:23:07  8:55   Troy              NY
+ 3891 Douglas E. Billingham  M#2975   344/683  M45-49   1:24:57  9:07   1:23:07  8:55   Troy              NY
  3892 Roxanne A. Hollen      F# 917   101/530  F40-44   1:24:57  9:07   1:21:03  8:42   Palmyra           PA
  3893 James Daly             M#2976   346/664  M40-44   1:24:58  9:07   1:23:22  8:57   Red Lion          PA
  3894 Donna Tatro            F# 918    73/441  F45-49   1:24:59  9:07   1:16:39  8:14   Princeton         NJ
@@ -4479,7 +4479,7 @@
  4479 Eric Mallery           M#3331   444/692  M20-24   1:27:44  9:25   1:17:05  8:17   Vestal            NY
  4480 Robert L. Frank        M#3332   181/414  M55-59   1:27:44  9:25   1:24:07  9:02   Trumansburg       NY
  4481 Patrick Tobin          M#3333   465/795  M25-29   1:27:44  9:25   1:20:59  8:42   Schenectady       NY
- 4482 Michael D. Andriatch,  M#3334   385/683  M45-49   1:27:44  9:25   1:23:29  8:58   Brockport         NY
+ 4482 Michael D. Andriatch   M#3334   385/683  M45-49   1:27:44  9:25   1:23:29  8:58   Brockport         NY
  4483 Todd Brindle           M#3335   386/683  M45-49   1:27:45  9:25   1:23:29  8:58   Brockport         NY
  4484 Shari Nichols          F#1149   137/530  F40-44   1:27:45  9:25   1:19:36  8:33   Barton            NY
  4485 Rob Kerr               M#3336   387/683  M45-49   1:27:45  9:25   1:24:34  9:05   Sullivans Island  SC
@@ -6400,7 +6400,7 @@
  6400 Nicole Ferris          F#2049   388/791  F25-29   1:35:38 10:16   1:32:22  9:55   New York Mills    NY
  6401 John Wojtanowski       M#4352   487/664  M40-44   1:35:38 10:16   1:27:54  9:26   Ellicott City     MD
  6402 Russell A. Huta        M#4353   488/664  M40-44   1:35:39 10:16   1:28:52  9:32   Delmar            NY
- 6403 Walter J. Wojtanowski, M#4354   600/795  M25-29   1:35:39 10:16   1:27:55  9:26   Ellicott City     MD
+ 6403 Walter J. Wojtanowski  M#4354   600/795  M25-29   1:35:39 10:16   1:27:55  9:26   Ellicott City     MD
  6404 Ronald C. Burton       M#4355   266/414  M55-59   1:35:40 10:16   1:33:35 10:03   Hallstead         PA
  6405 Wayne Cooke            M#4356    85/179  M60-64   1:35:40 10:16   1:30:53  9:46   Sackets Harbor    NY
  6406 Richard A. George      M#4357   499/683  M45-49   1:35:41 10:16   1:32:04  9:53   Edmeston          NY

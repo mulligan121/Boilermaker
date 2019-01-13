@@ -1542,7 +1542,7 @@
  1542 Frank Jozefick         M#1292   137/638  M45-49   1:13:40  7:55   1:12:56  7:50   Milford           CT
  1543 Tom R. Kligerman       M#1293   106/606  M50-54   1:13:41  7:55   1:12:04  7:44   Albany            NY
  1544 John Aldrich           M#1294   138/638  M45-49   1:13:41  7:55   1:11:49  7:43   Fabius            NY
- 1545 Randall J. Sokolowski, M#1295   123/634  M35-39   1:13:41  7:55   1:11:56  7:43   Liverpool         NY
+ 1545 Randall J. Sokolowski M#1295   123/634  M35-39   1:13:41  7:55   1:11:56  7:43   Liverpool         NY
  1546 Collin Krehbiel        M#1296   208/886  M25-29   1:13:43  7:55   1:12:57  7:50   Macungie          PA
  1547 Sam Ravangard          M#1297   209/886  M25-29   1:13:43  7:55   1:11:29  7:41   Utica             NY
  1548 Wilton D. Alston       M#1298   107/606  M50-54   1:13:43  7:55   1:12:37  7:48   Rochester         NY
@@ -2784,7 +2784,7 @@
  2784 Bryan Evans            M#2161   331/886  M25-29   1:21:20  8:44   1:16:41  8:14   Syracuse          NY
  2785 Richard Lubey          M#2162   216/634  M35-39   1:21:20  8:44   1:18:41  8:27   Utica             NY
  2786 Anthony Malandra       M#2163   242/689  M40-44   1:21:21  8:44   1:19:27  8:32   Suffern           NY
- 2787 Donald F. Wisniewski,  M#2164   187/606  M50-54   1:21:21  8:44   1:19:17  8:31   Marcy             NY
+ 2787 Donald F. Wisniewski   M#2164   187/606  M50-54   1:21:21  8:44   1:19:17  8:31   Marcy             NY
  2788 Christina H. Sorbello  F# 624    79/619  F35-39   1:21:22  8:44   1:18:54  8:28   Syracuse          NY
  2789 Timothy Jensen         M#2165   217/634  M35-39   1:21:22  8:44   1:19:42  8:33   Utica             NY
  2790 Amy Eshleman           F# 625    80/619  F35-39   1:21:22  8:44   1:20:01  8:36   Staten Island     NY
@@ -8889,7 +8889,7 @@
  8889 Brianne Parent         F#3664   681/922  F25-29   1:50:33 11:52   1:46:49 11:28   Marcy             NY
  8890 Shelly Howell          F#3665   479/619  F35-39   1:50:33 11:52   1:38:41 10:36   Greene            NY
  8891 Gregory J. Jaros       M#5226   564/634  M35-39   1:50:34 11:52   1:41:54 10:56   New Hartford      NY
- 8892 Timothy K. Skjellerup, M#5227   648/730  M30-34   1:50:34 11:52   1:49:32 11:46   Ithaca            NY
+ 8892 Timothy K. Skjellerup  M#5227   648/730  M30-34   1:50:34 11:52   1:49:32 11:46   Ithaca            NY
  8893 Mike Cousineau         M#5228   519/606  M50-54   1:50:34 11:52   1:39:50 10:43   Burlingston       ON
  8894 James R. Jaros         M#5229   160/204  M60-64   1:50:34 11:52   1:41:55 10:56   Utica             NY
  8895 Karen M. Constabile    F#3666   326/474  F45-49   1:50:34 11:52   1:43:48 11:09   Whitesboro        NY
@@ -9509,7 +9509,7 @@
  9509 Leeanne Spellman       F#4057   631/759  F30-34   1:54:57 12:20   1:42:49 11:02   Middleville       NY
  9510 Isabelle Desrosiers    F#4058   508/619  F35-39   1:54:58 12:21   1:44:06 11:11   Montreal          QC
  9511 Mitchell W. Wilbert    M#5453   549/606  M50-54   1:54:58 12:21   1:48:40 11:40   Westernville      NY
- 9512 Walter J. Wojtanowski, M#5454   825/886  M25-29   1:54:59 12:21   1:46:21 11:25   Columbia          MD
+ 9512 Walter J. Wojtanowski  M#5454   825/886  M25-29   1:54:59 12:21   1:46:21 11:25   Columbia          MD
  9513 Patricia L. Paone      F#4059   360/474  F45-49   1:54:59 12:21   1:43:21 11:06   Scotia            NY
  9514 Bill Allen             M#5455   550/606  M50-54   1:55:00 12:21   1:48:03 11:36   Hilton            NY
  9515 Anthony J. Centolella  M#5456   551/606  M50-54   1:55:00 12:21   1:48:03 11:36   Auburn            NY
