@@ -5,7 +5,7 @@ require('colors')
 
 // parsers
 const parser1 = require('./parsers/parser1') // 2003 - 2006
-const parser2 = require('./parsers/parser2') // 2007, 2009 - 2018
+const parser2 = require('./parsers/parser2') // 2007, 2009 - 2019
 const parser3 = require('./parsers/parser3') // 2008
 
 // assign years to a parser
