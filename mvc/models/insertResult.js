@@ -73,6 +73,9 @@ module.exports = function (year, result, next) {
     case 'Year2018':
       newRunner = new RunnerResult.Year2018(dataToInsert)
       break
+    case 'Year2019':
+      newRunner = new RunnerResult.Year2018(dataToInsert)
+      break
   }
 
   // save the runner result

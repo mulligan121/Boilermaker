@@ -75,6 +75,7 @@ let Year2015 = mongoose.model('2015', RunnerResultsSchema)
 let Year2016 = mongoose.model('2016', RunnerResultsSchema)
 let Year2017 = mongoose.model('2017', RunnerResultsSchema)
 let Year2018 = mongoose.model('2018', RunnerResultsSchema)
+let Year2019 = mongoose.model('2019', RunnerResultsSchema)
 
 // get the mongoose model from the schema and export it
 module.exports = {
@@ -93,5 +94,6 @@ module.exports = {
   Year2015,
   Year2016,
   Year2017,
-  Year2018
+  Year2018,
+  Year2019
 }
